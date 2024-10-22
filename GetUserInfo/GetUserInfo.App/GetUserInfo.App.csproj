@@ -11,7 +11,7 @@
     <PublishTrimmed>true</PublishTrimmed>
     <DebugType>embedded</DebugType>
 
-    <VersionPrefix>1.0.100.0</VersionPrefix>
+    <VersionPrefix>1.0.101.0</VersionPrefix>
     <VersionSuffix>pre-release</VersionSuffix>
     <InformationalVersion>v$(VersionPrefix) ($(VersionSuffix))</InformationalVersion>
     <Copyright Condition=" '$(CopyrightYear)' != '' ">Copyright © $(CopyrightYear)</Copyright>
